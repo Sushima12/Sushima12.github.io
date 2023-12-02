@@ -1,6 +1,6 @@
 # Sushima12.github.io
 <h2>Welcome to my Github page</h2>
-I am Poh Boon Siong, I am currently in Diploma in Computer Engineering in Singapore Polytechnic.
+I am Poh Boon Siong, I am currently studying in Diploma in Computer Engineering in Singapore Polytechnic.
 
 <p>
   This page will be updated whenever i complete a project
